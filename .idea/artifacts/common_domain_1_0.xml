@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="common-domain-1.0">
+    <output-path>$PROJECT_DIR$/common/common-domain/build/libs</output-path>
+    <root id="archive" name="common-domain-1.0.jar">
+      <element id="module-output" name="mercadofeedback.common.common-domain.main" />
+    </root>
+  </artifact>
+</component>

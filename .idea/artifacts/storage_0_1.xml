@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="storage-0.1">
+    <output-path>$PROJECT_DIR$/core/storage/build/libs</output-path>
+    <root id="archive" name="storage-0.1.jar">
+      <element id="module-output" name="mercadofeedback.core.storage.main" />
+    </root>
+  </artifact>
+</component>

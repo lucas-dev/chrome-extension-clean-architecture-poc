@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chrome-platform-1.0">
+    <output-path>$PROJECT_DIR$/common/chrome-platform/build/libs</output-path>
+    <root id="archive" name="chrome-platform-1.0.jar">
+      <element id="module-output" name="mercadofeedback.common.chrome-platform.main" />
+    </root>
+  </artifact>
+</component>

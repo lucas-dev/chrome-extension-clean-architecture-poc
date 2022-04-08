@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+<div class="tab">
+  <button id="tabQuestions">Q/A</button>
+  <button id="tabReviews">Reviews</button>
+</div>
+<div id="containerQuestions" class="tabcontent">
+  <h3>Questions/Answers</h3>
+  <input type="text" id="searchViewQuestions"  placeholder="Search.." title="Type in a category">
+  <div id="loaderQuestions">Loading Questions</div>
+  <h2 id="noSearchMatchesQuestions">No results</h2>
+  <h2 id="emptyQuestions">No questions found</h2>
+  <h2 id="errorQuestions"></h2>
+  <ul id="listViewQuestions"></ul>
+</div>
+<div id="containerReviews" class="tabcontent">
+  <h3>Reviews</h3>
+  <input type="text" id="searchViewReviews"  placeholder="Search.." title="Type in a category">
+  <div id="loaderReviews">Loading Reviews</div>
+  <h2 id="noSearchMatchesReviews">No results</h2>
+  <h2 id="emptyReviews">No Reviews found</h2>
+  <h2 id="errorReviews"></h2>
+  <ul id="listViewReviews"></ul>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>

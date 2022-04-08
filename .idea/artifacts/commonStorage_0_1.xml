@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="commonStorage-0.1">
+    <output-path>$PROJECT_DIR$/common/commonStorage/build/libs</output-path>
+    <root id="archive" name="commonStorage-0.1.jar">
+      <element id="module-output" name="mercadofeedback.common.commonStorage.main" />
+    </root>
+  </artifact>
+</component>

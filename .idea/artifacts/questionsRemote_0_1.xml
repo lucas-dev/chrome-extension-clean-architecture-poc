@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="questionsRemote-0.1">
+    <output-path>$PROJECT_DIR$/questions/questionsRemote/build/libs</output-path>
+    <root id="archive" name="questionsRemote-0.1.jar">
+      <element id="module-output" name="mercadofeedback.questions.questionsRemote.main" />
+    </root>
+  </artifact>
+</component>

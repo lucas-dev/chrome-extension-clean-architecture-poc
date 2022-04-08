@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="reviews-presentation-0.1">
+    <output-path>$PROJECT_DIR$/reviews/reviews-presentation/build/libs</output-path>
+    <root id="archive" name="reviews-presentation-0.1.jar">
+      <element id="module-output" name="mercadofeedback.reviews.reviews-presentation.main" />
+    </root>
+  </artifact>
+</component>

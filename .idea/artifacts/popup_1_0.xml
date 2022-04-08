@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="popup-1.0">
+    <output-path>$PROJECT_DIR$/core/popup/build/libs</output-path>
+    <root id="archive" name="popup-1.0.jar">
+      <element id="module-output" name="mercadofeedback.core.popup.main" />
+    </root>
+  </artifact>
+</component>
